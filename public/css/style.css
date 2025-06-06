@@ -1,0 +1,32 @@
+body{
+    color:white;
+    background-color: black;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+button:hover{
+    font-weight: 800;
+}
+
+img:hover{
+    height:120px;
+    width:120px;
+}
+
+p:hover{
+    font-weight: 800;
+}
+
+p{
+    display:inline block;
+}
+
+.footer{
+    background-color: black;
+    opacity: .6;
+    text-decoration:underline;
+}
